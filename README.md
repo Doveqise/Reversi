@@ -1,7 +1,8 @@
 # Reversi
-Code by Liu Yichen#12112609
+Code by 
+      Liu Yichen#12112609
 
-        Li Zongze#12111802
+      Li Zongze#12111802
               
               
    @2021Fall CS102A Sustech
