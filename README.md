@@ -1,10 +1,11 @@
 # Reversi
 Code by 
-      **Liu Yichen#12112609**
+
+**Liu Yichen#12112609**
       
-      **Li Zongze#12111802**
+**Li Zongze#12111802**
               
-   @2021Fall CS102A Sustech
+@2021Fall CS102A Sustech
    
 All rights reserved.
 
